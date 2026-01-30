@@ -18,8 +18,10 @@ repo_name: 1596941391qq/pseo-site-fd0f7f66
 
 docs_dir: docs
 use_directory_urls: true
+index_file: 全球玩家2026淘宝手柄选购推荐-新手指南与高性价比之选.md
 
 nav:
+  - "全球玩家2026淘宝": 全球玩家2026淘宝手柄选购推荐-新手指南与高性价比之选.md
 # 新文章将在此处自动添加
 
 markdown_extensions:
